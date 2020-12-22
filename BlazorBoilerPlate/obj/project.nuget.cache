@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cGAzg/jqIfeacZFqvHHxWb2ODFud+HlvcsTs/GLkuMBqBQHB3t/BKClC071Igj8yYI/T6/srNsSCaafFMJXuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maksym Kononenko\\Documents\\test\\BlazorBoilerPlate\\BlazorBoilerPlate\\BlazorBoilerPlate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksym Kononenko\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
